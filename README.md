@@ -2,8 +2,7 @@
 A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
 
 ## Link to live map (replace with link to your site)
-https://handsondataviz.github.io/leaflet-map-simple/
-
+[https://handsondataviz.github.io/leaflet-map-simple/
+](https://srjb17.github.io/Quiz-Leaflet-Map-Simple/)
 ## Create your own
 See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
-https://srjb17.github.io/Quiz-Leaflet-Map-Simple/
